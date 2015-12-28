@@ -6,4 +6,4 @@ module.exports = (grunt, options) ->
 		all:
 			src: ['**/*.coffee', '!node_modules/**']
 
-return config
+	return config
